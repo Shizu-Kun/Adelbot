@@ -1,0 +1,62 @@
+PENTING
+
+HAPUS BAGIAN INI ?
+JAHANAM WAITS FOR YOU 
+
+REUPLOAD? TAG YT GW
+JANGAN DI JUAL SC INI KOCAK
+
+//thanks to
+// • Allah Swt
+// • Penyedia Module
+// • PakoyOffC (Pengrmbang)
+// • SiPutz (Penyedia Script)
+// • Penyedia Panel
+// • Adam (Partner)
+// • Kyuu (Partner)
+// • Faris Taik (Partner)
+// • Buy Panel?
+// • Contact Wa :
+// • https://wa.me/6283878477395
+
+//note :
+//nama session : session
+//nomor owner : ./database/owner.json
+//thum bot : ./thumbnail/thumbnail.jpg
+
+
+For termux users:
+
+apt update
+
+apt upgrade
+
+pkg update && pkg upgrade
+
+pkg install libwebp
+
+pkg install git -y
+
+pkg install nodejs -y 
+
+pkg install ffmpeg -y 
+
+pkg install wget
+
+pkg install imagemagick -y
+
+termux-setup-storage
+
+cd /sdcard (now type ur bot directory, for example: my bot is in download folder, i will type as👇)
+
+cd Download
+
+cd NamaFile
+
+yarn install
+
+npm start
+
+
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs (for 24/7 activation)
+
